@@ -1,4 +1,2 @@
-abrightwell.github.io
+W. Adam Brightwell
 =====================
-
-abrightwell's GitHub User Page
