@@ -5,4 +5,4 @@
 * [Team 342 - Burning Magnetos](https://github.com/frc-team-342)
 
 ## Presentations
-* [Progamming and Controls - 2017 Kickoff](./frc/index.html)
+* [Progamming and Controls - 2017 Kickoff](https://abrightwell.github.io/frc-presentations/2017/programming-and-controls)
